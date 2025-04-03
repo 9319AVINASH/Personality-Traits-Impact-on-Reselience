@@ -1,28 +1,28 @@
 # Personality-Traits-Impact-on-Reselience
 **Study the association of Personality and Resilience in Mental Health**
 
- **Reserch Overview**
+📍 **Reserch Overview**
 
   This research study the association of Personality and Resilience in mental health by correlating Big Five Personality traits (OCEAN) with Resilience using Pearson's Product Moment correlation. This study examines multiple personality traits and how they impact resilience of young adults.
-
-**Key words** 
+  
+🗝️**Key words** 
 
 Personality, Resilience, Neuroticism, Extraversion, Agreeableness, Openness to experience, Conscientiousness
 
-**Data Sheet**
+📊**Data Sheet**
 
 Two tools were used-	NEO five factor inventory by Paul Costa and Robert McCrae and	The Resilience Scale by Wagnild and Young. The test was conducted randomly on 147 participants age 18 to 30 years consisting of both males
 (70) and females (77) using google forms.
 
 link
 
-**Variables**
+🧮**Variables**
 
 **Dependent variable**- Resilience
 
 **Independent variable**- Personality traits (Neuroticism, Extraversion, Agreeableness, Openness to experience, Conscientiousness)
 
-**Result and Finding**
+📂**Result and Finding**
 
 Neuroticism shows a significant weak negative correlation to Resilience with significance of .002 and correlation of -0.194
 
