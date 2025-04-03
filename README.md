@@ -9,12 +9,10 @@
 
 Personality, Resilience, Neuroticism, Extraversion, Agreeableness, Openness to experience, Conscientiousness
 
-📊**Data Sheet**
+📊**Data**
 
 Two tools were used-	NEO five factor inventory by Paul Costa and Robert McCrae and	The Resilience Scale by Wagnild and Young. The test was conducted randomly on 147 participants age 18 to 30 years consisting of both males
 (70) and females (77) using google forms.
-
-link
 
 🧮**Variables**
 
